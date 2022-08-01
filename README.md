@@ -15,16 +15,16 @@ Project sourced from:
 Screenshots of the project
 
 #### Homepage view
-<img src="screenshots/homepage.png" width="320" height="676" alt="Screenshot"/>
-
-#### Vertical layout
-<img src="screenshots/vertical.png" width="320" height="676" alt="Screenshot"/>
-
-#### Horizontal layout
-<img src="screenshots/horizontal.png" width="320" height="676" alt="Screenshot"/>
+<img src="screenshots/linear-layout.png" width="320" height="676" alt="Screenshot"/>
 
 #### Grid layout
-<img src="screenshots/grid.png" width="320" height="676" alt="Screenshot"/>
+<img src="screenshots/grid-layout.png" width="320" height="676" alt="Screenshot"/>
+
+#### Word layout
+<img src="screenshots/word-view.png" width="320" height="676" alt="Screenshot"/>
+
+#### Implicit Intent
+<img src="screenshots/implicit-intent.png" width="320" height="676" alt="Screenshot"/>
 
 
 ## Concepts 
